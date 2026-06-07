@@ -29,7 +29,7 @@ GitHub 仓库：https://github.com/fuyuoo/unity-study-progress
 ### 每个模块的阅读清单
 
 **模块 1 - 资源加载方式总览**
-1. [Unity 官方 - 最佳实践：Resources 文件夹](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity2.html)
+1. [Unity 官方 - Resources 系统介绍](https://docs.unity3d.com/Manual/LoadingResourcesatRuntime.html)
 2. [Unity 官方 - AssetBundle 介绍](https://docs.unity3d.com/Manual/AssetBundlesIntro.html)
 3. [Unity 官方 - AssetBundle 工作原理](https://docs.unity3d.com/Manual/AssetBundles-Native.html)
 4. [Unity 官方 - Addressables 入门](https://docs.unity3d.com/Packages/com.unity.addressables@latest/manual/index.html)
