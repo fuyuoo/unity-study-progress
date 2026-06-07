@@ -22,8 +22,22 @@ GitHub 仓库：https://github.com/fuyuoo/unity-study-progress
 
 ### 用户说"开始学习"或"继续学习"
 1. 读取 `progress.md`，找到第一个状态为 `🔄 学习中` 的模块
-2. 告知用户当前进度，提供该模块的学习资料文件路径
-3. 等用户说"读完了"
+2. 告知用户当前进度
+3. 给出该模块的**阅读清单**（网页链接，按顺序），要求用户读完再来
+4. 等用户说"读完了"
+
+### 每个模块的阅读清单
+
+**模块 1 - 资源加载方式总览**
+1. [Unity 官方 - 最佳实践：Resources 文件夹](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity2.html)
+2. [Unity 官方 - AssetBundle 介绍](https://docs.unity3d.com/Manual/AssetBundlesIntro.html)
+3. [Unity 官方 - AssetBundle 工作原理](https://docs.unity3d.com/Manual/AssetBundles-Native.html)
+4. [Unity 官方 - Addressables 入门](https://docs.unity3d.com/Packages/com.unity.addressables@latest/manual/index.html)
+5. [Unity 官方 - Addressables 内存管理](https://docs.unity3d.com/Packages/com.unity.addressables@latest/manual/MemoryManagement.html)
+6. [YooAsset 官方文档 - 快速开始](https://www.yooasset.com/docs/guide-editor/QuickStart)
+7. [YooAsset 官方文档 - 资源系统](https://www.yooasset.com/docs/guide-runtime/CodeTutorial1)
+
+*后续模块的阅读清单在模块完成时补充*
 
 ### 用户说"读完了"
 1. 出题：10-30 道题，由浅入深
